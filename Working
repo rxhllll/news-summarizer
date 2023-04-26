@@ -1,0 +1,6 @@
+Copy "public IPv4 address"
+        54.160.165.131
+ Add the port address that you assigned at the creation process of the instance
+        '8501'
+ Open the ip address by combining the port address with the ip by using colon
+         54.160.165.131:8501(trying using on a different device as the processing rate is slow and may not load on slow net connection)
